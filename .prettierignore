@@ -1,0 +1,17 @@
+
+
+package.json
+.umi
+/dist
+.DS_Store
+.eslintignore
+.eslintrc.js
+.cz-config.js
+commitlint.config.js
+*.png
+.editorconfig
+.gitignore
+.prettierignore
+*.md
+/src/wxcomponents
+/src/components
